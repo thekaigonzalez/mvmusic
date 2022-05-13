@@ -1,0 +1,7 @@
+MVMusic
+
+Moves music from your user's `Downloads' directory into the `Music' directory.
+
+This was made in 5 minutes using GNU nano 6.2.
+
+Syntax: `mvmusic'
